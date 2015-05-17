@@ -1,0 +1,1055 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:Mailer.cs" caret="2209" fromTop="56" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:EncrDecrAction.cs" caret="2245" fromTop="15" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Views/d:Account/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Views/d:Account/f:LogIn.cshtml" caret="0" fromTop="0" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Views/d:Classes/f:TemplateItems.cs" caret="1109" fromTop="22" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:SessionHandler.cs" caret="1182" fromTop="22" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Views/d:Shared/f:_Layout.cshtml" caret="759" fromTop="12" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:Account.cs" caret="18605" fromTop="30" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Controllers/f:AccountController.cs" caret="958" fromTop="9" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Controllers/f:AccessTTController.cs" caret="2706" fromTop="56" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Views/d:AccessTT/f:UploadAccessDataFile.cshtml" caret="1072" fromTop="14" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel7Type.xml" caret="859" fromTop="14" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel6Type.xml" caret="904" fromTop="16" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel5Type.xml" caret="925" fromTop="16" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel4Type.xml" caret="904" fromTop="16" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel3Type.xml" caret="904" fromTop="16" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel2Type.xml" caret="891" fromTop="16" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Views/d:OMCBScript/f:ExtensionRack.cshtml" caret="0" fromTop="0" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Controllers/f:OMCBScriptController.cs" caret="1094" fromTop="2" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel1Type.xml" caret="846" fromTop="14" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:UtilityLibrary.cs" caret="2653" fromTop="15" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Content/d:conversion/d:internalToGui/f:channel0Type.xml" caret="877" fromTop="15" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:AccessTT.cs" caret="4851" fromTop="109" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:IOFileOperation.cs" caret="5289" fromTop="15" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/f:Web.config" caret="608" fromTop="10" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:DBGateway.cs" caret="0" fromTop="0" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:Authenticate.cs" caret="0" fromTop="0" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Libs/f:Authentication.cs" caret="0" fromTop="0" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:BSSEntry.cs" caret="8075" fromTop="9" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="5690" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="2478" fromTop="24" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="11320" fromTop="20" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="11320" fromTop="24" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="11320" fromTop="11" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="11320" fromTop="16" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="3014" fromTop="24" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="2758" fromTop="22" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="11258" fromTop="30" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="8449" fromTop="17" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="8315" fromTop="14" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="10428" fromTop="18" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="10515" fromTop="20" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="12090" fromTop="31" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="11582" fromTop="13" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="12090" fromTop="19" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="4009" fromTop="9" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="4919" fromTop="26" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="4775" fromTop="16" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="4208" fromTop="15" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="6783" fromTop="30" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="6783" fromTop="24" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="6783" fromTop="18" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="1352" fromTop="17" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="3332" fromTop="9" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="3840" fromTop="12" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="5196" fromTop="23" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="6680" fromTop="24" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="6082" fromTop="14" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="6661" fromTop="24" />
+      <File id="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2/d:Models/f:ExtensionRack.cs" caret="5924" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="static" priority="574" />
+      <Item value="public" priority="1500" />
+      <Item value="string" priority="9166" />
+      <Item value="return" priority="2239" />
+      <Item value="encryptedString" priority="31" />
+      <Item value="bool" priority="319" />
+      <Item value="true" priority="575" />
+      <Item value="aSession" priority="32" />
+      <Item value="Dictionary" priority="1918" />
+      <Item value="Authentication" priority="63" />
+      <Item value="Authentication`0" priority="53" />
+      <Item value="Redirect`0" priority="159" />
+      <Item value="HttpPost" priority="223" />
+      <Item value="ActionResult`0" priority="415" />
+      <Item value="if" priority="3197" />
+      <Item value="Session" priority="1311" />
+      <Item value="new" priority="3741" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="493" />
+      <Item value="sessionData" priority="414" />
+      <Item value="userName" priority="445" />
+      <Item value="userPassword" priority="95" />
+      <Item value="RedirectToActionPermanent`0" priority="31" />
+      <Item value="Index`0" priority="31" />
+      <Item value="HttpStaticObjectsCollectionWrapper`0" priority="31" />
+      <Item value="void" priority="223" />
+      <Item value="SessionHandler`0" priority="159" />
+      <Item value="HttpSessionStateWrapper" priority="57" />
+      <Item value="session" priority="130" />
+      <Item value="HttpSessionStateBase`0" priority="320" />
+      <Item value="EncrDecrAction`0" priority="127" />
+      <Item value="code" priority="31" />
+      <Item value="false" priority="319" />
+      <Item value="else" priority="703" />
+      <Item value="logoutLink" priority="29" />
+      <Item value="LogIn" priority="131" />
+      <Item value="menuString" priority="127" />
+      <Item value="HtmlString`0" priority="31" />
+      <Item value="Uri`0" priority="90" />
+      <Item value="UrlHelper`0" priority="127" />
+      <Item value="aHelper" priority="32" />
+      <Item value="UrlHelper" priority="86" />
+      <Item value="Url`0" priority="31" />
+      <Item value="HtmlHelper`0" priority="31" />
+      <Item value="RequestContext" priority="57" />
+      <Item value="url" priority="128" />
+      <Item value="Html" priority="383" />
+      <Item value="this" priority="31" />
+      <Item value="ControllerContext`0" priority="31" />
+      <Item value="Object`0" priority="31" />
+      <Item value="as" priority="32" />
+      <Item value="aController" priority="32" />
+      <Item value="LogInController" priority="28" />
+      <Item value="HtmlHelper" priority="28" />
+      <Item value="Home" priority="32" />
+      <Item value="using" priority="216" />
+      <Item value="GateWay" priority="61" />
+      <Item value="Hashtable`0" priority="319" />
+      <Item value="Dictionary&lt;string,Hashtable&gt;" priority="28" />
+      <Item value="menuDictionary" priority="95" />
+      <Item value="DBGateway`0" priority="448" />
+      <Item value="aGateway" priority="519" />
+      <Item value="DBGateway" priority="376" />
+      <Item value="aDataSet" priority="193" />
+      <Item value="foreach" priority="2235" />
+      <Item value="DataRow`0" priority="280" />
+      <Item value="aHashtable" priority="1000" />
+      <Item value="Hashtable" priority="347" />
+      <Item value="dataRow" priority="576" />
+      <Item value="MenuItems`0" priority="31" />
+      <Item value="List" priority="1569" />
+      <Item value="aList" priority="193" />
+      <Item value="List&lt;Hashtable&gt;" priority="28" />
+      <Item value="class" priority="61" />
+      <Item value="MenuItem`0" priority="127" />
+      <Item value="menu" priority="256" />
+      <Item value="List&lt;MenuItem&gt;" priority="57" />
+      <Item value="aMenuItem" priority="224" />
+      <Item value="MenuItem" priority="29" />
+      <Item value="b" priority="255" />
+      <Item value="menuItem" priority="127" />
+      <Item value="item" priority="127" />
+      <Item value="_AppDomain`0" priority="31" />
+      <Item value="aChildMenu" priority="31" />
+      <Item value="childMenu" priority="30" />
+      <Item value="subMenu" priority="31" />
+      <Item value="aDbGateway" priority="323" />
+      <Item value="conditionTable" priority="63" />
+      <Item value="query" priority="769" />
+      <Item value="UserData" priority="31" />
+      <Item value="ViewBag" priority="93" />
+      <Item value="private" priority="415" />
+      <Item value="null" priority="31" />
+      <Item value="ActionMethodSelectorAttribute`0" priority="31" />
+      <Item value="message" priority="445" />
+      <Item value="LogIn`0" priority="31" />
+      <Item value="TemplateItems`0" priority="63" />
+      <Item value="htmlData" priority="191" />
+      <Item value="WelcomeMessage" priority="31" />
+      <Item value="section" priority="89" />
+      <Item value="System" priority="221" />
+      <Item value="Configuration" priority="26" />
+      <Item value="Configuration.Assemblies" priority="26" />
+      <Item value="dynamic" priority="543" />
+      <Item value="BSSEntryController`0" priority="63" />
+      <Item value="aBssEntry" priority="324" />
+      <Item value="BSSEntry" priority="144" />
+      <Item value="IEnumerable" priority="61" />
+      <Item value="in" priority="63" />
+      <Item value="Model" priority="125" />
+      <Item value="data" priority="891" />
+      <Item value="int" priority="1207" />
+      <Item value="RedirectToAction`0" priority="159" />
+      <Item value="Index" priority="329" />
+      <Item value="Convert`0" priority="223" />
+      <Item value="HttpContext`0" priority="127" />
+      <Item value="var" priority="191" />
+      <Item value="urlHelper" priority="63" />
+      <Item value="routeValueDictionary" priority="31" />
+      <Item value="List&lt;int&gt;" priority="28" />
+      <Item value="pageNumbers" priority="31" />
+      <Item value="for" priority="157" />
+      <Item value="ViewData" priority="1629" />
+      <Item value="pageData" priority="95" />
+      <Item value="limit" priority="160" />
+      <Item value="lowerLimit" priority="31" />
+      <Item value="DynamicDataObject`0" priority="95" />
+      <Item value="paginationData" priority="287" />
+      <Item value="List&lt;DynamicDataObject&gt;" priority="28" />
+      <Item value="aSet" priority="323" />
+      <Item value="totalData" priority="352" />
+      <Item value="objCount" priority="95" />
+      <Item value="paginationDataObjectCount" priority="31" />
+      <Item value="aDataObject" priority="161" />
+      <Item value="DynamicDataObject" priority="28" />
+      <Item value="dataCount" priority="95" />
+      <Item value="List&lt;dynamic&gt;" priority="57" />
+      <Item value="out" priority="863" />
+      <Item value="pageNumber" priority="127" />
+      <Item value="Edit" priority="32" />
+      <Item value="GetPaginationData`0" priority="63" />
+      <Item value="firstPagination" priority="95" />
+      <Item value="dataViewLimit" priority="127" />
+      <Item value="nextPagination" priority="63" />
+      <Item value="endPagination" priority="63" />
+      <Item value="currentPageNumber" priority="63" />
+      <Item value="Web" priority="26" />
+      <Item value="Mvc" priority="26" />
+      <Item value="PageList" priority="31" />
+      <Item value="baseUrl" priority="255" />
+      <Item value="controller" priority="95" />
+      <Item value="action" priority="31" />
+      <Item value="paramenter" priority="31" />
+      <Item value="FirstPage" priority="31" />
+      <Item value="pageString" priority="31" />
+      <Item value="PaginationView`0" priority="31" />
+      <Item value="path" priority="127" />
+      <Item value="FilePathResult`0" priority="63" />
+      <Item value="lastIndex" priority="31" />
+      <Item value="Request" priority="447" />
+      <Item value="Content`0" priority="31" />
+      <Item value="effect" priority="254" />
+      <Item value="from" priority="221" />
+      <Item value="to" priority="95" />
+      <Item value="entryby" priority="127" />
+      <Item value="closeby" priority="95" />
+      <Item value="details" priority="221" />
+      <Item value="queryData" priority="63" />
+      <Item value="queryString" priority="159" />
+      <Item value="keyValuePair" priority="639" />
+      <Item value="queryStringAll" priority="64" />
+      <Item value="List&lt;string&gt;" priority="376" />
+      <Item value="LimitParameter" priority="31" />
+      <Item value="index" priority="95" />
+      <Item value="UtilityLibrary`0" priority="125" />
+      <Item value="fromAction" priority="31" />
+      <Item value="siteCode" priority="475" />
+      <Item value="entryBy" priority="61" />
+      <Item value="status" priority="223" />
+      <Item value="sitecode" priority="63" />
+      <Item value="activeSelected" priority="29" />
+      <Item value="allActiveSelected" priority="29" />
+      <Item value="closedSelected" priority="29" />
+      <Item value="allSelected" priority="29" />
+      <Item value="AddNewEntry" priority="32" />
+      <Item value="NewEntry" priority="65" />
+      <Item value="sites" priority="63" />
+      <Item value="toReturn" priority="127" />
+      <Item value="site" priority="31" />
+      <Item value="BSSEntry`0" priority="127" />
+      <Item value="siteCodes" priority="31" />
+      <Item value="condString" priority="31" />
+      <Item value="#region" priority="127" />
+      <Item value="#endregion" priority="159" />
+      <Item value="totalEntry" priority="31" />
+      <Item value="catch" priority="127" />
+      <Item value="DateTime`0" priority="93" />
+      <Item value="returnMessage" priority="61" />
+      <Item value="Url" priority="29" />
+      <Item value="UploadAccessDataFile" priority="65" />
+      <Item value="DateTime" priority="28" />
+      <Item value="time" priority="63" />
+      <Item value="ValidateEntrySubmit`0" priority="31" />
+      <Item value="outputMessage" priority="351" />
+      <Item value="requestby" priority="126" />
+      <Item value="toar" priority="31" />
+      <Item value="remarks" priority="156" />
+      <Item value="wo" priority="61" />
+      <Item value="cause" priority="63" />
+      <Item value="Entry" priority="32" />
+      <Item value="id" priority="127" />
+      <Item value="fromDate" priority="31" />
+      <Item value="fromTime" priority="31" />
+      <Item value="toDate" priority="31" />
+      <Item value="toTime" priority="31" />
+      <Item value="requestBy" priority="31" />
+      <Item value="success" priority="224" />
+      <Item value="ViewResults" priority="32" />
+      <Item value="ViewResults`0" priority="63" />
+      <Item value="String`0" priority="31" />
+      <Item value="HttpRequestWrapper`0" priority="31" />
+      <Item value="closeBy" priority="63" />
+      <Item value="title" priority="123" />
+      <Item value="formAction" priority="61" />
+      <Item value="File`0" priority="272" />
+      <Item value="IO" priority="80" />
+      <Item value="filename" priority="127" />
+      <Item value="fileNumber" priority="63" />
+      <Item value="Path`0" priority="31" />
+      <Item value="while" priority="31" />
+      <Item value="fileName" priority="223" />
+      <Item value="completeFileName" priority="63" />
+      <Item value="Random`0" priority="31" />
+      <Item value="prefix" priority="63" />
+      <Item value="tempFileName" priority="95" />
+      <Item value="accessTt" priority="64" />
+      <Item value="AccessTT" priority="28" />
+      <Item value="UploadAccessTT`0" priority="63" />
+      <Item value="IOFileOperation`0" priority="95" />
+      <Item value="file" priority="159" />
+      <Item value="aRow" priority="64" />
+      <Item value="DataColumn`0" priority="30" />
+      <Item value="columnHeaders" priority="31" />
+      <Item value="dataColumn" priority="31" />
+      <Item value="sheetName" priority="191" />
+      <Item value="GetCompleteSheetName`0" priority="31" />
+      <Item value="xlApp" priority="31" />
+      <Item value="List&lt;Dictionary&lt;string,string&gt;&gt;" priority="260" />
+      <Item value="aDictionary" priority="449" />
+      <Item value="columnHeader" priority="63" />
+      <Item value="GetCurrentExecutingLocation`0" priority="31" />
+      <Item value="drSheet" priority="31" />
+      <Item value="temp" priority="31" />
+      <Item value="FileResult`0" priority="31" />
+      <Item value="RedirectToRoute`0" priority="31" />
+      <Item value="Net" priority="26" />
+      <Item value="Mail" priority="26" />
+      <Item value="Mime" priority="27" />
+      <Item value="TransferEncoding`0" priority="26" />
+      <Item value="OPTIMTT" priority="31" />
+      <Item value="LessTRXTT" priority="31" />
+      <Item value="try" priority="223" />
+      <Item value="AuthorizeAttribute`0" priority="31" />
+      <Item value="accessTT" priority="63" />
+      <Item value="OptimTT" priority="63" />
+      <Item value="tableData" priority="31" />
+      <Item value="KeyValuePair" priority="63" />
+      <Item value="valuePair" priority="95" />
+      <Item value="redirectURLTAG" priority="63" />
+      <Item value="View`0" priority="223" />
+      <Item value="Error" priority="65" />
+      <Item value="href" priority="191" />
+      <Item value="userData" priority="63" />
+      <Item value="users" priority="95" />
+      <Item value="dbGateway" priority="128" />
+      <Item value="dicData" priority="127" />
+      <Item value="AccountController`0" priority="31" />
+      <Item value="account" priority="387" />
+      <Item value="Account" priority="115" />
+      <Item value="User" priority="31" />
+      <Item value="base" priority="63" />
+      <Item value="aConditionTable" priority="159" />
+      <Item value="result" priority="31" />
+      <Item value="filterContext" priority="63" />
+      <Item value="AccessTTController" priority="28" />
+      <Item value="roles" priority="607" />
+      <Item value="Account`0" priority="95" />
+      <Item value="AddUser" priority="65" />
+      <Item value="email" priority="253" />
+      <Item value="cell" priority="125" />
+      <Item value="address" priority="125" />
+      <Item value="phone" priority="95" />
+      <Item value="userAddress" priority="95" />
+      <Item value="role" priority="285" />
+      <Item value="selectedRole" priority="63" />
+      <Item value="Exception`0" priority="127" />
+      <Item value="ex" priority="95" />
+      <Item value="exception" priority="162" />
+      <Item value="Exception" priority="147" />
+      <Item value="throw" priority="95" />
+      <Item value="DataSet`0" priority="191" />
+      <Item value="aCon" priority="63" />
+      <Item value="insertId" priority="63" />
+      <Item value="Roles`0" priority="31" />
+      <Item value="msg" priority="31" />
+      <Item value="Mailer`0" priority="95" />
+      <Item value="aMailer" priority="194" />
+      <Item value="Mailer" priority="86" />
+      <Item value="client" priority="31" />
+      <Item value="SortedDictionary" priority="31" />
+      <Item value="Dictionary&lt;string,List&lt;string&gt;&gt;" priority="28" />
+      <Item value="userRoles" priority="30" />
+      <Item value="aRole" priority="127" />
+      <Item value="iterate" priority="415" />
+      <Item value="iRole" priority="63" />
+      <Item value="SortParentChildRoles`0" priority="31" />
+      <Item value="IFormatProvider`0" priority="31" />
+      <Item value="sValue" priority="95" />
+      <Item value="HttpApplicationStateWrapper`0" priority="31" />
+      <Item value="aCond" priority="63" />
+      <Item value="parentRole" priority="127" />
+      <Item value="key" priority="31" />
+      <Item value="refAdmRole" priority="351" />
+      <Item value="refRole" priority="31" />
+      <Item value="iterateValuePair" priority="31" />
+      <Item value="iterateParent" priority="95" />
+      <Item value="refParent" priority="63" />
+      <Item value="refValue" priority="95" />
+      <Item value="GetRoles`0" priority="95" />
+      <Item value="copyRoles" priority="351" />
+      <Item value="refData" priority="95" />
+      <Item value="BadImageFormatException`0" priority="31" />
+      <Item value="reference" priority="447" />
+      <Item value="iterateKVPair" priority="31" />
+      <Item value="ConflictOption`0" priority="31" />
+      <Item value="ref" priority="159" />
+      <Item value="getDataIterate" priority="159" />
+      <Item value="dictionary" priority="351" />
+      <Item value="sortedRoles" priority="95" />
+      <Item value="listDic" priority="63" />
+      <Item value="ViewUser`0" priority="31" />
+      <Item value="ViewUser" priority="65" />
+      <Item value="listIncrement" priority="63" />
+      <Item value="IHttpAsyncHandler`0" priority="31" />
+      <Item value="allowerRole" priority="31" />
+      <Item value="p" priority="31" />
+      <Item value="r" priority="31" />
+      <Item value="checkData" priority="31" />
+      <Item value="IsRoleExists`0" priority="63" />
+      <Item value="roleData" priority="95" />
+      <Item value="Authenticate" priority="95" />
+      <Item value="userInfo" priority="159" />
+      <Item value="Raw`0" priority="3" />
+      <Item value="formTitle" priority="31" />
+      <Item value="RedirectToRoutePermanent`0" priority="31" />
+      <Item value="Dictionary&lt;string,List&lt;Dictionary&lt;string,string&gt;&gt;&gt;" priority="57" />
+      <Item value="currentRole" priority="63" />
+      <Item value="refRoleData" priority="31" />
+      <Item value="StringLengthAttributeAdapter`0" priority="31" />
+      <Item value="ValidateUserInputs`0" priority="31" />
+      <Item value="roleId" priority="31" />
+      <Item value="service" priority="127" />
+      <Item value="ImpersonatedUserId" priority="28" />
+      <Item value="ConnectingIdType`0" priority="31" />
+      <Item value="Domain_Authentication`0" priority="31" />
+      <Item value="authentication" priority="64" />
+      <Item value="Domain_Authentication" priority="28" />
+      <Item value="EmailAddress" priority="28" />
+      <Item value="Attachment" priority="31" />
+      <Item value="Principal`0" priority="31" />
+      <Item value="results" priority="31" />
+      <Item value="object" priority="32" />
+      <Item value="QueryStringValueProvider`0" priority="31" />
+      <Item value="appRoles" priority="63" />
+      <Item value="department" priority="63" />
+      <Item value="designation" priority="31" />
+      <Item value="cellNumber" priority="31" />
+      <Item value="fullEmail" priority="31" />
+      <Item value="char" priority="89" />
+      <Item value="fullName" priority="31" />
+      <Item value="hasEditPermission" priority="63" />
+      <Item value="script" priority="63" />
+      <Item value="ExtensionRack`0" priority="63" />
+      <Item value="aExtensionRackScript" priority="32" />
+      <Item value="ExtensionRackScript" priority="28" />
+      <Item value="ScriptData" priority="31" />
+      <Item value="FileStyleUriParser`0" priority="31" />
+      <Item value="GetInputFileData`0" priority="31" />
+      <Item value="IDisposable`0" priority="31" />
+      <Item value="TRXData" priority="31" />
+      <Item value="aTRXData" priority="31" />
+      <Item value="XmlValidatingReader`0" priority="31" />
+      <Item value="XmlResolver`0" priority="31" />
+      <Item value="xmlReader" priority="95" />
+      <Item value="Dictionary&lt;string,Dictionary&lt;string,string&gt;&gt;" priority="28" />
+      <Item value="aData" priority="63" />
+      <Item value="attribute" priority="31" />
+      <Item value="attributeValue" priority="31" />
+      <Item value="Channel0Type" priority="31" />
+      <Item value="LoadChannelTypeData`0" priority="31" />
+      <Item value="thr" priority="31" />
+      <Item value="DAPChangeDataParentSite" priority="31" />
+      <Item value="BTSData" priority="127" />
+      <Item value="aBTSData" priority="31" />
+      <Item value="GetBTSChildInformations`0" priority="31" />
+      <Item value="Hashtable&lt;string,string&gt;" priority="28" />
+      <Item value="trimChar" priority="31" />
+      <Item value="TRXData`0" priority="31" />
+      <Item value="aResult" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1601" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Authentication.Authentication">
+      <Item value="Authenticate`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Libs.SessionHandler">
+      <Item value="GetSessionData`0" priority="217" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="864" />
+      <Item value="RestoreDate" priority="27" />
+      <Item value="RestoreTime" priority="26" />
+      <Item value="Details" priority="55" />
+      <Item value="Effect" priority="55" />
+      <Item value="RequestBy" priority="27" />
+      <Item value="EntryBy" priority="27" />
+      <Item value="CloseBy" priority="27" />
+      <Item value="PageNumber" priority="26" />
+      <Item value="PageLimit" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpSessionStateBase">
+      <Item value="Count" priority="161" />
+      <Item value="Clear`0" priority="107" />
+      <Item value="Contents" priority="26" />
+      <Item value="Keys" priority="26" />
+      <Item value="Timeout" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="div" priority="141" />
+      <Item value="center" priority="29" />
+      <Item value="id" priority="61" />
+      <Item value="Controllers" priority="5" />
+      <Item value="HomeController.cs" priority="5" />
+      <Item value="style" priority="222" />
+      <Item value="color" priority="6" />
+      <Item value="background-color" priority="22" />
+      <Item value="lightcyan" priority="17" />
+      <Item value="cyan" priority="8" />
+      <Item value="whitesmoke" priority="8" />
+      <Item value="lightgray" priority="17" />
+      <Item value="width" priority="149" />
+      <Item value="padding-top" priority="8" />
+      <Item value="src" priority="12" />
+      <Item value="." priority="11" />
+      <Item value=".." priority="5" />
+      <Item value="Content" priority="5" />
+      <Item value="class" priority="37" />
+      <Item value="input" priority="58" />
+      <Item value="type" priority="29" />
+      <Item value="submit" priority="11" />
+      <Item value="value" priority="108" />
+      <Item value="ul" priority="18" />
+      <Item value="li" priority="12" />
+      <Item value="table" priority="25" />
+      <Item value="border" priority="6" />
+      <Item value="colspan" priority="11" />
+      <Item value="text-align" priority="13" />
+      <Item value="margin-left" priority="6" />
+      <Item value="auto" priority="17" />
+      <Item value="u" priority="6" />
+      <Item value="a" priority="6" />
+      <Item value="display" priority="48" />
+      <Item value="block" priority="17" />
+      <Item value="inline-table" priority="26" />
+      <Item value="btnLogin" priority="5" />
+      <Item value="centerpaginationdiv" priority="23" />
+      <Item value="word-wrap" priority="8" />
+      <Item value="break-word" priority="8" />
+      <Item value="overflow" priority="8" />
+      <Item value="fieldset" priority="31" />
+      <Item value="text" priority="11" />
+      <Item value="name" priority="18" />
+      <Item value="br" priority="6" />
+      <Item value="font-size" priority="6" />
+      <Item value="relative" priority="17" />
+      <Item value="tr" priority="5" />
+      <Item value="form" priority="26" />
+      <Item value="action" priority="18" />
+      <Item value="float" priority="6" />
+      <Item value="right" priority="8" />
+      <Item value="select" priority="12" />
+      <Item value="option" priority="5" />
+      <Item value="selected" priority="5" />
+      <Item value="POST" priority="30" />
+      <Item value="method" priority="18" />
+      <Item value="h1" priority="6" />
+      <Item value="span" priority="5" />
+      <Item value="legend" priority="12" />
+      <Item value="checkbox" priority="5" />
+      <Item value="checked" priority="61" />
+      <Item value="datepicker" priority="5" />
+      <Item value="radio" priority="6" />
+      <Item value="keyword" priority="6" />
+      <Item value="script" priority="6" />
+      <Item value="text/javascript" priority="5" />
+      <Item value="readonly" priority="11" />
+      <Item value="fromdatepicker" priority="6" />
+      <Item value="powerfailure" priority="5" />
+      <Item value="currenttime" priority="6" />
+      <Item value="textarea" priority="25" />
+      <Item value="img" priority="12" />
+      <Item value="label" priority="25" />
+      <Item value="height" priority="6" />
+      <Item value="inline-block" priority="8" />
+      <Item value="&amp;nbsp;" priority="1" />
+      <Item value="OnClickDelete" priority="8" />
+      <Item value="onclick" priority="5" />
+      <Item value="TableToExcel" priority="6" />
+      <Item value="file" priority="6" />
+      <Item value="JavaScriptAndCSS" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Libs.EncrDecrAction">
+      <Item value="Decrypt`0" priority="53" />
+      <Item value="Encrypt`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="menuitems" priority="4" />
+      <Item value="width" priority="60" />
+      <Item value="vertical-align" priority="5" />
+      <Item value="text-align" priority="25" />
+      <Item value="right" priority="36" />
+      <Item value="left" priority="34" />
+      <Item value="menucontainer" priority="4" />
+      <Item value="padding-right" priority="5" />
+      <Item value="border-color" priority="11" />
+      <Item value="red" priority="6" />
+      <Item value="black" priority="13" />
+      <Item value="yellow" priority="27" />
+      <Item value="border-collapse" priority="5" />
+      <Item value="color" priority="6" />
+      <Item value="background-color" priority="32" />
+      <Item value="lightcyan" priority="3" />
+      <Item value="cyan" priority="1" />
+      <Item value="whitesmoke" priority="1" />
+      <Item value="lightgray" priority="24" />
+      <Item value="padding-top" priority="6" />
+      <Item value="border" priority="13" />
+      <Item value="border-width" priority="5" />
+      <Item value="border-right-style" priority="5" />
+      <Item value="ridge" priority="11" />
+      <Item value="border-right-color" priority="5" />
+      <Item value="darkgray" priority="12" />
+      <Item value="pink" priority="20" />
+      <Item value="lightgrey" priority="12" />
+      <Item value="HeaderArea" priority="4" />
+      <Item value="lightblue" priority="13" />
+      <Item value="url" priority="5" />
+      <Item value="inherit" priority="12" />
+      <Item value="ui-corner-right" priority="4" />
+      <Item value="float" priority="24" />
+      <Item value="bottom" priority="5" />
+      <Item value="padding-bottom" priority="5" />
+      <Item value="position" priority="11" />
+      <Item value="absolute" priority="13" />
+      <Item value="margin-left" priority="12" />
+      <Item value="margin-right" priority="11" />
+      <Item value="margin-bottom" priority="11" />
+      <Item value="margin-top" priority="11" />
+      <Item value="transparent" priority="13" />
+      <Item value="center" priority="43" />
+      <Item value="justify" priority="5" />
+      <Item value="match-parent" priority="5" />
+      <Item value="lightslategray" priority="5" />
+      <Item value="darkslategrey" priority="6" />
+      <Item value="font-size" priority="12" />
+      <Item value="large" priority="5" />
+      <Item value="xx-large" priority="6" />
+      <Item value="itemSubmit" priority="4" />
+      <Item value="hiddenpara" priority="4" />
+      <Item value="small" priority="12" />
+      <Item value="smaller" priority="12" />
+      <Item value="dataviewtable" priority="4" />
+      <Item value="dataviewrow" priority="9" />
+      <Item value="dataviewcell" priority="4" />
+      <Item value="lightskyblue" priority="6" />
+      <Item value="auto" priority="10" />
+      <Item value="display" priority="30" />
+      <Item value="block" priority="17" />
+      <Item value="inline-table" priority="5" />
+      <Item value="centerpaginationdiv" priority="4" />
+      <Item value="word-wrap" priority="0" />
+      <Item value="break-word" priority="1" />
+      <Item value="overflow" priority="0" />
+      <Item value="DBGateway`0" priority="1" />
+      <Item value="fieldset" priority="5" />
+      <Item value="span" priority="5" />
+      <Item value="relative" priority="3" />
+      <Item value="input" priority="11" />
+      <Item value="inputspan" priority="4" />
+      <Item value="text-emphasis-color" priority="5" />
+      <Item value="newentry" priority="14" />
+      <Item value="singlerowinput" priority="4" />
+      <Item value="flex-pack" priority="5" />
+      <Item value="newentryform" priority="4" />
+      <Item value="fromdatepicker" priority="4" />
+      <Item value="effecttext" priority="4" />
+      <Item value="effectradio1" priority="4" />
+      <Item value="scroll" priority="11" />
+      <Item value="fixed" priority="13" />
+      <Item value="background-position" priority="23" />
+      <Item value="repeat-y" priority="19" />
+      <Item value="background-image" priority="5" />
+      <Item value="background-size" priority="5" />
+      <Item value="cover" priority="5" />
+      <Item value="ctx" priority="6" />
+      <Item value="contain" priority="13" />
+      <Item value="content" priority="19" />
+      <Item value="padding" priority="5" />
+      <Item value="no-repeat" priority="27" />
+      <Item value="repeat-x" priority="6" />
+      <Item value="repeat" priority="6" />
+      <Item value="background" priority="5" />
+      <Item value="tr" priority="5" />
+      <Item value="clicked" priority="5" />
+      <Item value="GrayText" priority="6" />
+      <Item value="ghostwhite" priority="6" />
+      <Item value="inputlabel" priority="4" />
+      <Item value="height" priority="6" />
+      <Item value="inline-block" priority="1" />
+      <Item value="keyword" priority="4" />
+      <Item value="selected" priority="4" />
+      <Item value="lightsteelblue" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.NameObjectCollectionBase+KeysCollection">
+      <Item value="Cast`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="logoutLink" priority="7" />
+      <Item value="Html" priority="91" />
+      <Item value="ViewBag" priority="7" />
+      <Item value="section" priority="27" />
+      <Item value="IEnumerable" priority="9" />
+      <Item value="foreach" priority="17" />
+      <Item value="int" priority="31" />
+      <Item value="data" priority="15" />
+      <Item value="for" priority="7" />
+      <Item value="DBGateway`0" priority="9" />
+      <Item value="UtilityLibrary`0" priority="7" />
+      <Item value="Dictionary" priority="9" />
+      <Item value="new" priority="7" />
+      <Item value="siteCode" priority="23" />
+      <Item value="entryBy" priority="9" />
+      <Item value="if" priority="7" />
+      <Item value="activeSelected" priority="7" />
+      <Item value="allActiveSelected" priority="7" />
+      <Item value="closedSelected" priority="7" />
+      <Item value="allSelected" priority="9" />
+      <Item value="Model" priority="7" />
+      <Item value="ViewData" priority="9" />
+      <Item value="DateTime`0" priority="9" />
+      <Item value="returnMessage" priority="7" />
+      <Item value="Url" priority="7" />
+      <Item value="details" priority="7" />
+      <Item value="effect" priority="7" />
+      <Item value="from" priority="7" />
+      <Item value="remarks" priority="17" />
+      <Item value="requestby" priority="9" />
+      <Item value="wo" priority="7" />
+      <Item value="title" priority="17" />
+      <Item value="formAction" priority="7" />
+      <Item value="message" priority="9" />
+      <Item value="userName" priority="7" />
+      <Item value="email" priority="7" />
+      <Item value="cell" priority="7" />
+      <Item value="address" priority="9" />
+      <Item value="role" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Raw`0" priority="189" />
+      <Item value="ActionLink`0" priority="80" />
+      <Item value="RadioButtonFor`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Views.Classes.MenuItems">
+      <Item value="GetMenuItems`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ManiacProject.Controllers.LogInController">
+      <Item value="ControllerContext" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerContext">
+      <Item value="Controller" priority="26" />
+      <Item value="RequestContext" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Action`0" priority="80" />
+      <Item value="RequestContext" priority="53" />
+      <Item value="Content`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GateWay.DBGateway">
+      <Item value="Select`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Tables" priority="404" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="377" />
+      <Item value="Columns" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="462" />
+      <Item value="Add`0" priority="462" />
+      <Item value="Count" priority="26" />
+      <Item value="Values" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="684" />
+      <Item value="SelectMany`2" priority="26" />
+      <Item value="Where`1" priority="80" />
+      <Item value="Count" priority="188" />
+      <Item value="Last`1" priority="53" />
+      <Item value="DefaultIfEmpty`1" priority="26" />
+      <Item value="ToArray`0" priority="53" />
+      <Item value="AddRange`0" priority="166" />
+      <Item value="Distinct`1" priority="26" />
+      <Item value="Contains`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ManiacProject.Views.Classes.MenuItem">
+      <Item value="Id" priority="26" />
+      <Item value="MenuName" priority="161" />
+      <Item value="MenuParentName" priority="243" />
+      <Item value="Controller" priority="80" />
+      <Item value="Action" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="134" />
+      <Item value="Count`1" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Views.Classes.TemplateItems">
+      <Item value="GetWelcomeStringView`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="function" priority="54" />
+      <Item value="alert" priority="219" />
+      <Item value="$" priority="129" />
+      <Item value="document" priority="43" />
+      <Item value="geturl" priority="10" />
+      <Item value="offset" priority="10" />
+      <Item value="width" priority="10" />
+      <Item value="window" priority="21" />
+      <Item value="var" priority="142" />
+      <Item value="url" priority="43" />
+      <Item value="baseUrl" priority="32" />
+      <Item value="return" priority="10" />
+      <Item value="GetBaseUrl" priority="10" />
+      <Item value="console" priority="120" />
+      <Item value="if" priority="120" />
+      <Item value="else" priority="32" />
+      <Item value="datedata" priority="21" />
+      <Item value="check" priority="32" />
+      <Item value="checked" priority="21" />
+      <Item value="raddata" priority="10" />
+      <Item value="fun" priority="10" />
+      <Item value="cssclass" priority="21" />
+      <Item value="className" priority="10" />
+      <Item value="autoValue" priority="43" />
+      <Item value="xhr" priority="10" />
+      <Item value="OnClickDelete" priority="5" />
+      <Item value="TableToExcel" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="click" priority="26" />
+      <Item value="hide" priority="36" />
+      <Item value="appendTo" priority="8" />
+      <Item value="append" priority="9" />
+      <Item value="left" priority="8" />
+      <Item value="location" priority="17" />
+      <Item value="log" priority="107" />
+      <Item value="ready" priority="8" />
+      <Item value="val" priority="19" />
+      <Item value="getElementsByName" priority="8" />
+      <Item value="attr" priority="29" />
+      <Item value="getElementById" priority="9" />
+      <Item value="length" priority="29" />
+      <Item value="change" priority="9" />
+      <Item value="css" priority="29" />
+      <Item value="toggle" priority="8" />
+      <Item value="addClass" priority="8" />
+      <Item value="valueCache" priority="9" />
+      <Item value="abort" priority="8" />
+      <Item value="top" priority="17" />
+      <Item value="createElement" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ManiacProject.Models.BSSEntry">
+      <Item value="GetActiveBSSEntries`0" priority="26" />
+      <Item value="GetEntryData`0" priority="26" />
+      <Item value="EditCloseBssEntry`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt64`0" priority="53" />
+      <Item value="ToInt32`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Request" priority="54" />
+      <Item value="Server" priority="26" />
+      <Item value="Session" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="RawUrl" priority="26" />
+      <Item value="Url" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RequestContext">
+      <Item value="RouteData" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteData">
+      <Item value="Values" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="Indexer" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ThenBy`2" priority="26" />
+      <Item value="OrderByDescending`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Views.Classes.PaginationView">
+      <Item value="GetPaginationData`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="Authority" priority="26" />
+      <Item value="Host" priority="26" />
+      <Item value="AbsoluteUri" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="350" />
+      <Item value="LastIndexOf`0" priority="53" />
+      <Item value="Length" priority="161" />
+      <Item value="ToString`0" priority="81" />
+      <Item value="TrimEnd`0" priority="53" />
+      <Item value="ToLower`0" priority="243" />
+      <Item value="Count`1" priority="27" />
+      <Item value="Contains`0" priority="53" />
+      <Item value="Replace`0" priority="134" />
+      <Item value="Remove`0" priority="53" />
+      <Item value="Split`0" priority="54" />
+      <Item value="Substring`0" priority="53" />
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="568" />
+      <Item value="Value" priority="729" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Libs.UtilityLibrary">
+      <Item value="GetBaseURL`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ManiacProject.Libs.DBGateway">
+      <Item value="Select`0" priority="242" />
+      <Item value="Insert`0" priority="26" />
+      <Item value="Delete`0" priority="26" />
+      <Item value="Update`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlEntityCodeCompletionContext">
+      <Item value="&amp;nbsp;" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="Files" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="53" />
+      <Item value="Decrypt`0" priority="26" />
+      <Item value="Delete`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="Combine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ManiacProject.Models.AccessTT">
+      <Item value="ProcessAccessTTFile`0" priority="26" />
+      <Item value="OPTIMTT" priority="26" />
+      <Item value="LessTRXTT" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Libs.IOFileOperation">
+      <Item value="ReadExcelFile`0" priority="26" />
+      <Item value="ReadXMLData`0" priority="26" />
+      <Item value="LoadXMLData`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="ColumnName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Application">
+      <Item value="Quit`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbConnection">
+      <Item value="GetOleDbSchemaTable`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Mime.TransferEncoding">
+      <Item value="Unknown" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Views.Classes.TableView">
+      <Item value="GetTableView`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ManiacProject.Models.Account">
+      <Item value="GetAllActiveUsers`0" priority="26" />
+      <Item value="GetRoles`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.AuthorizationContext">
+      <Item value="Controller" priority="26" />
+      <Item value="Result" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ManiacProject.Libs.Mailer">
+      <Item value="SendMail`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Mail.SmtpDeliveryMethod">
+      <Item value="Network" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.SmtpClient">
+      <Item value="EnableSsl" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Exchange.WebServices.Data.EmailMessage">
+      <Item value="From" priority="53" />
+      <Item value="Send`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Exchange.WebServices.Data.ExchangeService">
+      <Item value="Credentials" priority="27" />
+      <Item value="ImpersonatedUserId" priority="26" />
+      <Item value="Url" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Exchange.WebServices.Data.ConnectingIdType">
+      <Item value="SmtpAddress" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain_Authentication">
+      <Item value="IsValid`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ManiacProject.Libs.MailConst">
+      <Item value="SendMail`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DirectoryServices.AccountManagement.Principal">
+      <Item value="Name" priority="26" />
+      <Item value="SamAccountName" priority="80" />
+      <Item value="UserPrincipalName" priority="26" />
+      <Item value="Context" priority="26" />
+      <Item value="DistinguishedName" priority="26" />
+      <Item value="Description" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DirectoryServices.AccountManagement.UserPrincipal">
+      <Item value="EmailAddress" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="GetAttribute`0" priority="26" />
+      <Item value="HasAttributes" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

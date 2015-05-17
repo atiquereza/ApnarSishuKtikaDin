@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="A4F46DF1-ADA5-499E-BA60-48EE54CDE9A2" ModuleId="ManiacProject" />
+  <Module PersistentId="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+  <Module PersistentId="BA41AF71-5226-4F1E-BEA3-D74F46736791" ModuleId="GateWay" />
+</Modules>
