@@ -3,13 +3,10 @@
  */
 
 //DatePicker function
-$(function () {
+//$(function() {
+//    $( "#datepicker" ).datepicker();
+//});
 
-    $('#datetimepicker1').datetimepicker({
-        locale:'en'
-    });
-});
-//
 //$(document).ready(function () {
 //
 //    $('#datepicker1').datepicker({

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html lang="en">
 
 <head>
 
@@ -13,17 +13,12 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet">
-    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
-
-
-    <!-- jQuery UI css -->
-    <!--<link href="css/jquery-ui.min.css" rel="stylesheet">-->
-    <!--<link href="css/jquery-ui.theme.min.css" rel="stylesheet">-->
-    <!--<link href="css/jquery-ui.structure.min.css" rel="stylesheet">-->
 
     <!-- Custom CSS -->
     <link href="css/sb-admin.css" rel="stylesheet">
+
+    <!-- Morris Charts CSS -->
+    <link href="css/plugins/morris.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -33,25 +28,14 @@
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-    <!--<script src="js/jquery-ui.min.js"></script>-->
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/moment.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="js/bootstrap-datetimepicker.min.js"></script>
-    <script src="js/en.js"></script>
-
-    <!-- Custom JS -->
-    <script src="js/custom.js"></script>
 </head>
 
 <body>
 
-
 <div id="wrapper">
+
 <!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -172,12 +156,19 @@
                 <a href="dashbord.html"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
             </li>
             <li>
-                <a href="manage-users.html"><i class="fa fa-fw fa-user"></i> Manage Users</a>
-            </li>
-
-            <li class="active">
-                <a href="javascript:;" data-toggle="collapse" data-target="#demo"><i class="fa fa-fw fa-shield"></i> Manage Vaccine <i class="fa fa-fw fa-caret-down"></i></a>
+                <a href="javascript:;" data-toggle="collapse" data-target="#demo"><i class="fa fa-fw fa-user"></i> Manage Users <i class="fa fa-fw fa-caret-down"></i></a>
                 <ul id="demo">
+                    <li class="active">
+                        <a href="#"><i class="fa fa-fw fa-plus"></i> Add User</a>
+                    </li>
+                    <li>
+                        <a href="user-list.html"><i class="fa fa-fw fa-eye"></i> View List of Users</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="javascript:;" data-toggle="collapse" data-target="#demo1"><i class="fa fa-fw fa-shield"></i> Manage Vaccine <i class="fa fa-fw fa-caret-down"></i></a>
+                <ul id="demo1" class="collapse">
                     <li>
                         <a href="add-vaccine.html"><i class="fa fa-fw fa-plus"></i> Add Vaccine</a>
                     </li>
@@ -186,6 +177,8 @@
                     </li>
                 </ul>
             </li>
+
+
             <li>
                 <a href="reports.html"><i class="fa fa-fw fa-file"></i> Reports</a>
             </li>
@@ -199,91 +192,109 @@
 
 <div id="page-wrapper">
 
-    <div class="container-fluid">
+<div class="container-fluid">
 
-        <!-- Page Heading -->
+<!-- Page Heading -->
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">
+            Add User <small></small>
+        </h1>
+        <ol class="breadcrumb">
+            <li>
+                <i class="fa fa-dashboard"></i> Dashboard
+            </li>
+            <li class="active">
+                <i class="fa fa-plus"></i> Add User
+            </li>
+        </ol>
+    </div>
+</div>
+
+<!-- /.row -->
+
+<!-- /.row -->
+
+    <form role="form" action="#" method="POST">
         <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">
-                    Add Vaccine <small></small>
-                </h1>
-                <ol class="breadcrumb">
-                    <li class="active">
-                        <i class="fa fa-dashboard"></i> Manage Vaccine
-                    </li>
-                    <li class="active">
-                        <i class="fa fa-fw fa-plus"></i> Add Vaccine
-                    </li>
-                </ol>
+            <div class="form-group col-lg-4" required="required">
+                <label>First Name*</label>
+                <input type="" name="" class="form-control" id="" value="">
+            </div>
+            <div class="form-group col-lg-4" required="required">
+                <label>Last Name*</label>
+                <input type="" name="" class="form-control" id="" value="">
+            </div>
+            </div>
+        <div class="row">
+            <div class="form-group col-lg-4" required="required">
+                <label>Spouse's Name*</label>
+                <input type="" name="" class="form-control" id="" value="">
             </div>
         </div>
         <!-- /.row -->
-        <form role="form" action="#" method="POST">
-            <div class="row">
-                <div class="form-group col-lg-6" required="required">
-                    <label>Vaccine Name*</label>
-                    <input type="" name="" class="form-control" id="" value="">
-                </div>
-                <div class="form-group col-lg-6">
-                    <label>Type*</label><br>
-                    <select class="form-control" id="vaccineType">
-                        <option value="lav">Live Attenuated Vaccines</option>
-                        <option value="iv">Inactivated Vaccines</option>
-                        <option value="tv">Toxoid vaccines</option>
-                        <option value="cv">Conjugate Vaccines</option>
-                        <option value="sv">Subunit Vaccines</option>
-                    </select>
-                </div>
+
+        <div class="row">
+            <div class="form-group col-lg-4" required="required">
+                <label>Present Address*</label>
+                <input type="" name="" class="form-control" id="" value="">
             </div>
-            <!-- /.row -->
-            <div class="row">
-                <div class="form-group col-lg-2">
-                    <label>Amount* (in ml)</label>
-                    <input type="" name="" class="form-control" id="" value="">
-                </div>
-                <div class='form-group col-lg-2'>
-
-                    <!--<div class="input-group datetimepicker">-->
-                    <!--<span class="input-group-addon"><i class="fa fa-calendar"></i></span>-->
-                    <!--<input class="form-control" type="text" id="datetimepicker1"/>-->
-                    <!--</div>-->
-
-                    <!--<div class='col-lg-6'>-->
-
-                    <label>Date</label>
-                    <div class='input-group date' >
-                        <input type='text' class="form-control" id='datetimepicker1'/>
-                    <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
-                    </span>
-                    </div>
-
-                    <!--</div>-->
-
-                    <!--<div class='input-group datetimepicker'>-->
-                    <!--<input type='text' class="form-control" id='datetimepicker1'/>-->
-                    <!--<span class="input-group-addon">-->
-                    <!--<span class="glyphicon glyphicon-calendar"></span>-->
-                    <!--</span>-->
-                    <!--</div>-->
-                </div>
+            <div class="form-group col-lg-4" required="required">
+                <label>Permanent Address*</label>
+                <input type="" name="" class="form-control" id="" value="">
             </div>
-            <!-- /.row -->
-            <div class="row>">
-                <div class="form-group col-lg-4">
-                    <button type="submit" class="btn btn-primary">Add</button>
-                    <button type="submit" class="btn btn-default">Cancel</button>
-                </div>
+        </div>
+        <!-- /.row -->
+        <div class="row">
+            <div class="form-group col-lg-3" required="required">
+                <label>Email*</label>
+                <input type="" name="" class="form-control" id="" value="">
             </div>
-            <!-- /.row -->
-            <!-- /.page content -->
-        </form>
-        <!-- /.container-fluid -->
-    </div>
-    <!-- /#page-wrapper -->
+            <div class="form-group col-lg-2" required="required">
+                <label>Mobile No*</label>
+                <input type="" name="" class="form-control" id="" value="">
+            </div>
+        </div>
+        <!-- /.row -->
+        <div class="row">
+            <div class="form-group col-lg-2">
+                <label>User Role</label><br>
+                <select class="form-control" id="vaccineType">
+                    <option value="lav">Super Admin</option>
+                    <option value="iv">Manager</option>
+                    <option value="tv">User</option>
+                </select>
+            </div>
+        </div>
+        <!-- /.row -->
+        <div class="row>">
+            <div class="form-group col-lg-4">
+                <button type="submit" class="btn btn-primary">Add</button>
+                <button type="submit" class="btn btn-default">Cancel</button>
+            </div>
+        </div>
+        <!-- /.row -->
+        <!-- /.page content -->
+    </form>
+</div>
+<!-- /.container-fluid -->
+
+</div>
+<!-- /#page-wrapper -->
+
 </div>
 <!-- /#wrapper -->
-</div>
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Morris Charts JavaScript -->
+<script src="js/plugins/morris/raphael.min.js"></script>
+<script src="js/plugins/morris/morris.min.js"></script>
+<script src="js/plugins/morris/morris-data.js"></script>
 
 </body>
 
