@@ -5,14 +5,15 @@
 //DatePicker function
 $(function () {
 
-    $('#datetimepicker1').datetimepicker({
-        locale:'en'
-    });
+    $('#datetimepicker1').datepicker({
+        locale:'en',
+        todayHighlight: true
+    }).on('changeDate', function(e){
+        $(this).datepicker('hide');
 });
+})
 
 
-
-//
 //$(document).ready(function () {
 //
 //    $('#datepicker1').datepicker({
