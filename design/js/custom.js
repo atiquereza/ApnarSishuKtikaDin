@@ -7,7 +7,8 @@ $(function () {
 
     $('#datetimepicker1').datepicker({
         locale:'en',
-        todayHighlight: true
+        todayHighlight: true,
+        format: 'dd/mm/yyyy'
     }).on('changeDate', function(e){
         $(this).datepicker('hide');
 });
